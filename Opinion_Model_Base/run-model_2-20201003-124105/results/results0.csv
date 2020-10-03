@@ -1,0 +1,13 @@
+seed,224696287805382
+numAgents,25
+numVillageAgents,25
+numTotalTicks,1000
+probLink,0.005
+updateSlope,1.0
+updatePerturbStDev,0.0
+kStar,0.6
+probDeathInter,2e-05
+probDeathCoef,1.0
+probDeathExponent,2.0
+tribalPreferenceProb,0.0
+numSegments,1
